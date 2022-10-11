@@ -32,6 +32,11 @@ SELECT SUM(standard_cost) FROM products WHERE category <> 'Sauces';
 
 -- 3.
 a,
+USE northwind;
+
+SELECT * FROM employees WHERE city = 'Seattle';
+
+b,
 
 
 
