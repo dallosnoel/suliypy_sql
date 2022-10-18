@@ -70,31 +70,3 @@ d,
 USE northwind;
 
 SELECT MAX(standard_cost) FROM products WHERE product_code LIKE '%CO';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
